@@ -1,5 +1,7 @@
-# ignore media files
+# ignore media files and fmod api
 media/
+api/
+
 
 # Compiled Object files
 *.slo
